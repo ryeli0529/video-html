@@ -1,0 +1,33 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Video Compilation Page</title>
+</head>
+<body>
+    <main>
+        <h1>videos</h1>
+        <p>the videos that i will be showing are like this, "top (n) (i)"</p>
+        <section>
+            <h2>top 10000 cheese</h2>
+            <p>this is the cheese top 10000 cheeses that are cheese. there are um other top cheeses videos but i dont wanna put in top 29000000000000000 cheese</p>
+            <iframe src="https://www.youtube.com/embed/tvO-LTGIrXo" title="top 10000 cheese" width="392" height="216"></iframe>
+        </section>
+        <section>
+            <h2>top 5 scariest jumpscares</h2>
+            <p>wathc ar yoer own riks!!11! the laat two are horifying!1!</p>
+            <iframe src="https://www.youtube.com/embed/mCh6VpxLubc" title="top 5 scariest jumpscares" width="392" height="216"></iframe>
+        </section>
+        <section>
+            <h2>top 10 numbers from one through ten</h2>
+            <p>i put the top 10 numbers from one through ten at the 3rd because 3 was not even top 10 of the top 10 numbers from one through ten and i rank top 10 numbers from one through ten 2nd out of the 3 videos</p>
+            <iframe src="https://www.youtube.com/embed/giS0BrfXUmM" title="Top 10 numbers from One through Ten" width="392" height="216"></iframe>
+        </section>
+    </main>
+</body>
+</html>
+
+** end of index.html **
+
